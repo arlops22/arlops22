@@ -44,13 +44,14 @@
 
 <!-- <img src="./.github/assets/lineBar.png" width="100%" height="8px"/> -->
 
-<h2 align='center'>Contact me</h2>
+<h2>Contact me</h2>
 
-<div align='center'>
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arylopes/)
 
 <a href = "mailto:ary.s.lopes22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
