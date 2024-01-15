@@ -1,12 +1,12 @@
 ## Ary Lopes 👨‍💻
 
-👋 Hello! My name is Ary Lopes and I am a Front End Developer. I started my carrer of Web programming in 2018, and since then, I feel more and more inspired and willing to pursue my career in the area. <br /> 
+👋 Hello! My name is Ary Lopes and I am a Front End Developer. I started my carrer of web programming in 2018, and since then, I feel more and more inspired and willing to pursue my career in the area. <br /> 
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
 
 <!-- <img width=100% src="./.github/assets/banner.png"/> -->
 
-<div align='center'>
+<!-- <div align='center'>
 
 <div align="center">  
   
@@ -16,7 +16,7 @@
   
 </div>
 
-</div>
+</div> -->
 
 <!-- <img src="./.github/assets/lineBar.png" width="100%" height="8px"/> -->
 
@@ -33,41 +33,14 @@
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />   
-    <img height='60' src="./.github/assets/styled-components-1.svg" />
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img height='60' src='https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png' />
-    <img height='60' src='https://raw.githubusercontent.com/github/explore/d236cc6153f7ab3e68694234be43003b74cfe151/topics/fastify/fastify.png' />
+    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />    
   </div>
 </div>
 
 <div><br />
-
-## Technologies that I had contact:
-
-<br />
-  <div>
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />      
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  </div>
-</div>
-
-<div><br />
-
-## Complementary technologies:
-
-<br />
- <div>
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />    
-  </div>
-</div>
-
-<br /><br />
 
 <!-- <img src="./.github/assets/lineBar.png" width="100%" height="8px"/> -->
 
