@@ -1,7 +1,7 @@
 ## Ary Lopes 👨‍💻
 
-👋 Software Developer passionate about turning ideas into amazing visual experiences. <br /> 
-With 5 years of experience in the field, my interest in software development began in 2018 during the course of Computer Science at the Fluminense Federal University.</br>
+👋 Software Developer passionate about turning ideas into amazing visual experiences. <br /> <br /> 
+With 5 years of experience in the field, my interest in software development began in 2018 during the course of Computer Science at the Fluminense Federal University.</br><br /> 
 I focus on frontend technologies such as HTML, CSS, SASS, Bootstrap, Tailwind, Javascript, Typescript, ReactJS, NextJS, React Native. But I also have backend knowledge using NodeJS as the main tool.
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
 
